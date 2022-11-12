@@ -1,5 +1,9 @@
 # gimp_annotation
-Gimp Plugin for save annotation into csv file
+<p>
+Gimp Plugin for save rectangle annotation into csv file. <br>
+y1,x1,h,w <br>
+...
+</p>
 #Install
 copy files to
 ~/.gimp2.8/plug-ins
