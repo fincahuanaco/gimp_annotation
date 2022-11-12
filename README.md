@@ -1,6 +1,6 @@
 # gimp_annotation
 <p>
-Gimp Plugin for save rectangle annotation into csv file. <br>
+Gimp Plugin(python-fu code) for save rectangle annotation into csv file. <br>
 y1,x1,h,w <br>
 ...
 </p>
