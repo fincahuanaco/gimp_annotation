@@ -4,5 +4,5 @@ Gimp Plugin for save annotation into csv file
 copy files to
 ~/.gimp2.8/plug-ins
 <br>
-<img src="gimp_annotation.png" width="600"/>
+<img src="gimp_annotation_menu.png" width="600"/>
 
