@@ -6,7 +6,7 @@ copy files to
 <br>
 <img src="gimp_annotation_menu.png" width="500"/>
 <br>
-After use and draw
+After using Annotation/Selectionto CSV and draw them
 <p>
-<img src="gimp_annotation_sample.png" width="600"/>
+<img src="gimp_annotation_sample.png" width="700"/>
 </p>
