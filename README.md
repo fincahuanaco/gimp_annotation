@@ -7,5 +7,6 @@ copy files to
 <img src="gimp_annotation_menu.png" width="500"/>
 <br>
 After use and draw
+<p>
 <img src="gimp_annotation_sample.png" width="600"/>
-
+</p>
